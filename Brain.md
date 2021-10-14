@@ -69,6 +69,7 @@ Setelah di scan disini ku scan lagi diretory brainstorm karena masih menyimpan s
 ===============================================================
 ```
 
+## WFUZZ
 Dan benar saya terdapat `file.php` yang dimana berpotensi terdapat vuln `LFI`. Oleh karena itu ku coba wfuzz untuk mendapatkan parameter tersebut :
 
 ```console
@@ -111,6 +112,7 @@ Karena itu ku cek `/proc/sched_debug`. Oya sebelumnya file yang bisa dilihat ole
 Ssalomon:My*****   410      3010.149453        16   120         0.000000         2.419489         0.000000 0 0 /
 ```
 
+## SSH
 Dan ternyata terdapat password SSH , akhirnya lu login dan terdapat flag `user.txt` :
 
 ```console
