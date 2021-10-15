@@ -149,6 +149,8 @@ kamila@texte:~$ strings /opt/texte
 setuid
 system
 ******
+setgid
+******
 /usr/bin/mail -s 'Remember,dont upload PHP files.' kamila@localhost
 ```
 
