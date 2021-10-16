@@ -5,7 +5,7 @@ date: 2021-10-16 07:45 WIB
 ---
 <h1 align="center" style="font-size:30px;">
   <br>
-  <a href="https://downloads.hackmyvm.eu/gift.zip">Texte</a>
+  <a href="https://downloads.hackmyvm.eu/gift.zip">Gift</a>
   <br>
 </h1>
 
