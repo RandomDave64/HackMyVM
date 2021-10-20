@@ -9,7 +9,7 @@ date: 2021-10-20 10.28 WIB
   <br>
 </h1>
 
-<h4 align="center"> Author: <a href="https://twitter.com/x6cx61x63x61x73">cromiphi</a></h4>
+<h4 align="center"> Author: <a href="https://hackmyvm.eu/profile/?user=cromiphi">cromiphi</a></h4>
 
 ## NMAP
 
