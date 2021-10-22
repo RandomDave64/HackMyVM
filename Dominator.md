@@ -5,7 +5,7 @@ date: 2021-10-21 10:33 WIB
 ---
 <h1 align="center" style="font-size:30px;">
   <br>
-  <a href="https://downloads.hackmyvm.eu/dominator.zip">Texte</a>
+  <a href="https://downloads.hackmyvm.eu/dominator.zip">Dominator</a>
   <br>
 </h1>
 
