@@ -79,7 +79,7 @@ Karena kita sudah mendapatkan password ssh nya selanjutnya kita mencari username
 
 ```console
 ┌─[root@kina] - [~/Downloads/CTF/HackMyVm/Grotesque/2] - [7963]
-└─[$] hydra -L user.list -p solomon1 192.168.0.199 ssh                                                                      [23:46:39]
+└─[$] hydra -L user.list -p solo**** 192.168.0.199 ssh                                                                      [23:46:39]
 Hydra v9.3-dev (c) 2021 by van Hauser/THC & David Maciejak - Please do not use in military or secret service organizations, or for illegal purposes (this is non-binding, these *** ignore laws and ethics anyway).
 
 Hydra (https://github.com/vanhauser-thc/thc-hydra) starting at 2021-10-19 23:46:51
@@ -126,7 +126,7 @@ dan ditemukan
 ```
 dan kita cat 
 ```console
-angel@grotesque:~$ cat /rootcreds.txt 
+angel@grotesque:~$ cat /rootcred****
 root creds
 
 root
